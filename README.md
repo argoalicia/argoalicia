@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Alicia García
+# ¡Hola! 👋 Soy Alicia Garcia
 
 ### 💻 Desarrolladora de Software
 
